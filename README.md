@@ -6,7 +6,7 @@
 
 <img align="right" alt="code_gif" src="https://github.com/Tekill39/Tekill39/blob/main/code.gif" width="210" height="135" />
 
-Hi, I'm Mikhail, a mobile and web developer from Kaliningrad, Russia. I really like creating new webыites by React and mobile apps with using technology React Native. Now I am focused in increasing my knowledge in native development of mobile apps and backend development with using technology Node.js.
+Hi, I'm Mikhail, a mobile and web developer from Kaliningrad, Russia. I really like creating new websites by React and mobile apps with using technology React Native. Now I am focused in increasing my knowledge in native development of mobile apps and backend development with using technology Node.js.
 
 - 📫 How to reach me **minit009@yandex.ru**
 
