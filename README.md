@@ -1,6 +1,6 @@
 ### Hello everyone! I am Mikhail Nitievsky from Russia 👋
 
-[![Profile](https://visitor-badge.glitch.me/badge?page_id=TamaraMalakhova.profileviews-badge)](https://github.com/Tekill39)
+[![Profile](https://visitor-badge.glitch.me/badge?page_id=Tekill39.profileviews-badge)](https://github.com/Tekill39)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/misha-nit/)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/Misha_N8)
 
